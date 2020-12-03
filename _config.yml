@@ -3,19 +3,19 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Meltdownnn's Blog
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
-language: en
+author: 核心熔毁 Meltdownnn
+language: zh-cn
 timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: http://example.com
+url: https://meltdownnn.github.io/
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :category/:title-:hash/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -98,7 +98,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: kaze
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
